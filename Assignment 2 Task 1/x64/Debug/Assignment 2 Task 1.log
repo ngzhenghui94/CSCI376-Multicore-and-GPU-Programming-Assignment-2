@@ -1,0 +1,6 @@
+﻿  Assignment 2 Task 1.cpp
+D:\Google Drive\XPS 13\2020 Sem 2 Multicore GPU programming\Assignment\Assignment 2\Assignment 2 Task 1\Assignment 2 Task 1.cpp(28,6): warning C4101: 'arrayTwo': unreferenced local variable
+Assignment 2 Task 1.obj : error LNK2019: unresolved external symbol clReleaseContext referenced in function "public: static int __cdecl cl::detail::ReferenceHandler<struct _cl_context *>::release(struct _cl_context *)" (?release@?$ReferenceHandler@PEAU_cl_context@@@detail@cl@@SAHPEAU_cl_context@@@Z)
+Assignment 2 Task 1.obj : error LNK2019: unresolved external symbol clReleaseCommandQueue referenced in function "public: static int __cdecl cl::detail::ReferenceHandler<struct _cl_command_queue *>::release(struct _cl_command_queue *)" (?release@?$ReferenceHandler@PEAU_cl_command_queue@@@detail@cl@@SAHPEAU_cl_command_queue@@@Z)
+C:\Program Files (x86)\AMD APP SDK\3.0\lib\x86\OpenCL.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\Google Drive\XPS 13\2020 Sem 2 Multicore GPU programming\Assignment\Assignment 2\Assignment 2 Task 1\x64\Debug\Assignment 2 Task 1.exe : fatal error LNK1120: 2 unresolved externals

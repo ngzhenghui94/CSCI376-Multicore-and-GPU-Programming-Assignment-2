@@ -1,0 +1,4 @@
+D:\Google Drive\XPS 13\2020 Sem 2 Multicore GPU programming\Assignment\Assignment 2\Assignment 2 Task 1\Debug\Assignment 2 Task 1.exe
+D:\Google Drive\XPS 13\2020 Sem 2 Multicore GPU programming\Assignment\Assignment 2\Assignment 2 Task 1\Debug\Assignment 2 Task 1.pdb
+C:\Users\Zhenghui\Google Drive\XPS 13\2020 Sem 2 Multicore GPU programming\Assignment\Assignment 2\Assignment 2 Task 1\Debug\Assignment 2 Task 1.exe
+C:\Users\Zhenghui\Google Drive\XPS 13\2020 Sem 2 Multicore GPU programming\Assignment\Assignment 2\Assignment 2 Task 1\Debug\Assignment 2 Task 1.pdb
